@@ -1,0 +1,4 @@
+project_id = "nogueira-pdv"
+
+[functions.nfce]
+verify_jwt = true
